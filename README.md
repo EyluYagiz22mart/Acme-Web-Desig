@@ -5,5 +5,7 @@
 
 <h2>SON DURUMU</h2>
 
-[] (Ekran kaydı)
+ <h1>ERAN GÖRÜNTÜSÜ</h1>
+
+ ![](ekran.gif)
 
