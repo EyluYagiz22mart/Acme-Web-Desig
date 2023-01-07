@@ -7,5 +7,5 @@
 
  <h1>ERAN GÖRÜNTÜSÜ</h1>
 
- ![](ekran.gif)
+![](ekran.gif)
 
