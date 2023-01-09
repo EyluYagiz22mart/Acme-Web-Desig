@@ -1,7 +1,7 @@
 
-<h1>Acme projem düzenlememdir</h1>
+<h1>Acme projem düzenlendi</h1>
 
-<p> bu projemde html de düzetlmeler yoktur </p>
+<i> bu projemde html de düzetmeler yoktur </i>
 
 <h2>SON DURUMU</h2>
 
